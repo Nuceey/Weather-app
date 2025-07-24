@@ -19,7 +19,7 @@ This is a simple and responsive Weather App built using *HTML, **CSS, and **Java
  🚀 Live Demo
 
 Click the link below to view the live version of the app:  
-👉 [Live Weather App](https://github.com/Nuceey/Weather-app.git)
+👉 [Live Weather App] https://github.com/Nuceey
 
 
  📝 How to Use
